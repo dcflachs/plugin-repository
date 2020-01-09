@@ -12,5 +12,5 @@ Kata Containers is an open source VM based runtime for docker and OCI container 
 </Description>
 <MinVer>6.7.0</MinVer>
 <Support>https://forums.unraid.net/topic/87093-plug-in-kata-container-runtime/</Support>
-<Icon>https://avatars2.githubusercontent.com/u/33289952?s=280&v=4</Icon>
+<Icon>https://avatars2.githubusercontent.com/u/33289952?s=280&amp;v=4</Icon>
 </Containers>
