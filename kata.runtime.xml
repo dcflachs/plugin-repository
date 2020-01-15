@@ -5,10 +5,10 @@
 <PluginAuthor>dcflachs</PluginAuthor>
 <Beta>True</Beta>
 <Category>Tools: Tools:System</Category>
-<Date>2020-01-06</Date>
+<Date>2020-01-14</Date>
 <Name>Kata Containers Runtime</Name>
 <Description>
-Kata Containers is an open source VM based runtime for docker and OCI container engines. This plugin installs the Kata Containers Runtime on unraid and makes it availible in docker. The use 
+Kata Containers is an open source VM based runtime for docker and OCI container engines. This plugin installs the Kata Containers Runtime on unRAID and makes it available in docker.
 </Description>
 <MinVer>6.7.0</MinVer>
 <Support>https://forums.unraid.net/topic/87093-plug-in-kata-container-runtime/</Support>
