@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/dcflachs/swapfile_plugin/master/plugins/swapfile.plg</PluginURL>
+<PluginAuthor>dcflachs</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools: Tools:System</Category>
+<Date>2021-05-27</Date>
+<Name>Swapfile</Name>
+<Description>
+This plugin enables creation/starting/stopping/changing of a Swap File on your unRAID server. The plugin allows placing swapfiles on a BTRFS formatted drive.
+</Description>
+<MinVer>6.9.0</MinVer>
+<Support>https://forums.unraid.net/topic/109342-plugin-swapfile-for-691/</Support>
+<IconFA>microchip</IconFA>
+</Containers>
