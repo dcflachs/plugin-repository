@@ -6,7 +6,7 @@
 <Beta>True</Beta>
 <Category>Tools: Tools:System</Category>
 <Date>2021-05-27</Date>
-<Name>Swapfile</Name>
+<Name>Swapfile for unRAID 6.9</Name>
 <Description>
 This plugin enables creation/starting/stopping/changing of a Swap File on your unRAID server. The plugin allows placing swapfiles on a BTRFS formatted drive.
 </Description>
