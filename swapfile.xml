@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/dcflachs/swapfile_plugin/master/plugins/swapfile.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/dcflachs/swapfile_plugin/master/swapfile.plg</PluginURL>
 <PluginAuthor>dcflachs</PluginAuthor>
 <Beta>True</Beta>
 <Category>Tools: Tools:System</Category>
