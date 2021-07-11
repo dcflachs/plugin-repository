@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/dcflachs/swapfile_plugin/master/swapfile.plg</PluginURL>
 <PluginAuthor>dcflachs</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Tools: Tools:System</Category>
 <Date>2021-05-27</Date>
 <Name>Swapfile for unRAID 6.9</Name>
