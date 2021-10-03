@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/dcflachs/compose_plugin/main/compose.manager.plg</PluginURL>
+<PluginAuthor>dcflachs</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools: Tools:System</Category>
+<Date>2020-10-03</Date>
+<Name>Docker Compose Manager</Name>
+<Description>
+This plugin installs Docker Compose v2 on unRAID. WebGUI integration is not yet implemented.
+</Description>
+<MinVer>6.9.0</MinVer>
+<Support>https://forums.unraid.net/topic/114415-plugin-docker-compose-manager/</Support>
+<Icon>cubes</Icon>
+</Containers>
