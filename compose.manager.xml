@@ -12,5 +12,5 @@ This plugin installs Docker Compose v2 on unRAID. WebGUI integration is not yet 
 </Description>
 <MinVer>6.9.0</MinVer>
 <Support>https://forums.unraid.net/topic/114415-plugin-docker-compose-manager/</Support>
-<Icon>cubes</Icon>
+<IconFA>cubes</IconFA>
 </Containers>
