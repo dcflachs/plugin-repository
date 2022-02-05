@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/dcflachs/kata.runtime/master/plugins/kata.runtime.plg</PluginURL>
 <PluginAuthor>dcflachs</PluginAuthor>
-<Beta>True</Beta>
+<Deprecated>true</Deprecated>
 <Category>Tools: Tools:System</Category>
 <Date>2020-01-14</Date>
 <Name>Kata Containers Runtime</Name>
